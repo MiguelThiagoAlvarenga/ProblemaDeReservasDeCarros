@@ -1,0 +1,19 @@
+1. Pode-se executar o arquivo ProblemaDeReservasDeCarros.jar que se encontra dentro da pasta dist.
+   \ProblemaDeReservasDeCarros\dist\ProblemaDeReservasDeCarros.jar
+
+2. Inicialmente, temos os aquivos de 'Dados' dentro da pasta dados.
+   INPUT_SHOPS.TXT   --- Lista das lojas. Esse arquivo foi criado baseando-se no descritvo do problema. Inicialmente foi criada uma classe de persistência com toncat. Porém, isso estava aumentando muito a complexidade do projeto, visto o pouco tempo, acabou-se sendo criado apenas esse arquivo. Única fonte de entrada de lojas. Tem que ser preenchido manualmente.
+Obs.: Esse aquivo foi estruturado e deve seguir a mesma estrutura, ou seja, todos os valores que sejam inseridos no mesmo deve seguir a estrutura e espaçamentos(tamanhos dos "campos").
+
+3. Ao executar o projeto, o sistema irá lhe pedir para selecionar uma arquivo de entrada. O mesmo, foi criado embasado no descritivo e se encontra na pasta do projeto.
+     INPUT_LIST_CLIENTES.TXT  -- Também foi retirado da descrição do problema, e ao invés de entrar-se com apenas um valor de cada vez, pode-se entrar com uma lista nesse arquivo. Assim, posso pesquisar qual seria a loja mais válida para cada tipo de carro a ser alugado.
+OBS.: também deve-se manter a estrutura e espaçamento.
+
+4. Por fim, o resultado será expresso em um arquivo de saída gravado também no diretório 'Dados'. Segue conforme proposto com o seguinte nome:
+
+     OUTPUT.TXT
+
+
+5. Para teste, foi utilizado o plugin JUnit, nativo do Netebeans, IDE utilizado, e basta clicar no pacote do plugin com o botão direito e pedir para executar. Será dado vários diagnósticos da execução.
+   
+

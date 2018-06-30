@@ -42,7 +42,6 @@ public class ProblemaDeReservasDeCarrosTest {
      */
     @Test
     public void testMain() throws Exception {
-        System.out.println("main");
         String[] args = null;
         ProblemaDeReservasDeCarros.main(args);
         // TODO review the generated test code and remove the default call to fail.
