@@ -1,0 +1,4 @@
+NomeLoja:tipoCarro :precoDiasUteis:precoDiasUteisFidelidade:precoFimSemana:precoFimSemanaFidelidade:QtdOcupantes:CarroDisponivel
+SouthCar:Compactos :           210:                      50:           200:                      90:           4:            Uno
+WestCar :Esportivos:           530:                     150:           200:                      90:           2:        Ferrari
+NorthCar:SUV's     :           630:                     580:           600:                     590:           7:      Navigator
